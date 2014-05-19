@@ -1,4 +1,4 @@
-tablelights
-===========
+leap-hue
+========
 
-Control my Hue lights from a touch sensor on my table
+App to integrate the leap motion controller with the Philips Hue system
